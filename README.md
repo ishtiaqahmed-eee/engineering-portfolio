@@ -1,53 +1,57 @@
-# Electrical and Electronic Engineering Portfolio
 
-## About
-I am an Electrical and Electronic Engineering undergraduate
-interested in renewable energy, power systems, control
-engineering, embedded systems, and AI/ML applications.
+# Hi, I'm Ishtiaq Ahmed
 
-## Technical Interests
-- Renewable Energy and Solar PV Systems
-- Power Electronics and Control Systems
-- MATLAB and Simulink
-- Python and Machine Learning
-- Embedded Systems and IoT
+### Electrical and Electronic Engineering Undergraduate
+
+I am an EEE undergraduate interested in applying engineering,
+computational methods, and intelligent technologies to
+real-world energy and sustainability challenges.
+
+My interests include renewable energy, power systems,
+power electronics, control engineering, embedded systems,
+and AI/ML applications in electrical engineering.
+
+## Technical Skills
+
+- **Engineering:** Electrical engineering fundamentals
+- **Simulation:** MATLAB
+- **Embedded Systems:** ESP8266, Arduino IDE
+- **Data and AI/ML:** Currently developing Python skills
+
+## Certifications
+
+- MATLAB Onramp — MathWorks
 
 ## Featured Projects
 
-### 1. Solar PV–Battery DC Microgrid
-Status: [Completed / Ongoing]
+### 1. Wi-Fi-Enabled Adaptive Smart Lighting and Energy Audit System
+An ESP8266-based project exploring adaptive lighting,
+ambient-light sensing, remote monitoring, and energy analysis.
 
-Objective:
-Model and evaluate closed-loop control of a renewable
-energy DC system.
+**Technologies:** ESP8266, Arduino IDE, ThingSpeak
 
-Tools: MATLAB, Simulink
+**Status:** Undergraduate project
 
-Evidence:
-- System model
-- Controller design
-- Simulation results
-- Performance analysis
+### 2. Solar PV and Power Converter Control
+Developing knowledge of renewable energy conversion,
+converter modeling, and feedback control.
 
-### 2. Adaptive Smart Lighting and Energy Audit
-Status: [Completed / Ongoing]
+**Technologies:** MATLAB, Simulink
 
-Objective:
-Develop an IoT-enabled lighting prototype using
-ambient-light sensing and adaptive LED control.
+**Status:** Learning and development
 
-Tools: ESP8266, Arduino IDE, ThingSpeak
+## Research Interests
 
-Evidence:
-- Circuit and prototype
-- Source code
-- Sensor readings
-- Energy-saving evaluation
+- Renewable Energy Systems
+- Solar Photovoltaics
+- Power Electronics and Control
+- Smart Grids and Energy Optimization
+- AI/ML for Electrical Engineering
 
-## Certifications
-- MATLAB Onramp — MathWorks
+## Current Learning Goals
 
-## Future Learning
-- Simulink and Control System Design
-- Python for Data Analysis
-- Machine Learning for Energy Applications
+- Simulink and control-system simulation
+- Python for data analysis and machine learning
+- Research methodology and reproducible engineering work
+
+
